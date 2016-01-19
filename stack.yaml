@@ -1,0 +1,11 @@
+flags: {}
+packages:
+- '.'
+- ../reflex
+extra-deps:
+- ghcjs-dom-0.2.3.1
+- ref-tf-0.4
+- text-1.2.2.0
+- webkitgtk3-0.14.1.1
+- webkitgtk3-javascriptcore-0.13.1.1
+resolver: lts-4.2
